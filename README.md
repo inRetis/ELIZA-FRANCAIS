@@ -1,8 +1,6 @@
 # ELIZA-FRANCAIS
 ELIZA est un Chatbot écrit en 1966 par Joseph Weizenbaum qui est une parodie d'un thérapeute Rogersien, en bonne partie il répond au patient avec des questions obtenues par la reformulation des affirmations des patients même.
 
-ELIZA est un Chatterbot écrit en 1966 par Joseph Weizenbaum qui parodie un thérapeute rogersien, répondant largement au patient avec des questions obtenues en reformulant les déclarations du patient.
-
 Ainsi, par exemple, à la phrase « J'ai mal à la tête », le programme peut répliquer par « Pourquoi dites-vous que vous avez mal à la tête ? ou la réponse à "Ma mère me déteste" pourrait être "Qui d'autre dans votre famille vous déteste?"
 
 Pour une meilleure explication : https://fr.wikipedia.org/wiki/ELIZA
