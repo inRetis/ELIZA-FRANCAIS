@@ -13,4 +13,9 @@ Au moment d'écrire ces lignes, les seuls scripts ELIZA sérieux qui existent so
 
 Ce logiciel très simple en français est distribué par moi gratuitement et en open source. Il s'agit d'une simple curiosité mais qui malheureusement rend possible un certain nombre de bussiness pas forcément sérieux.
 
-Par exemple, en faisant des recherches sur google je suis tombé sur des publicités comme celle-ci :
+Par exemple, en faisant des recherches sur google je suis tombé sur des publicités comme celles-ci :
+![alt text](https://github.com/inRetis/ELIZA-FRANCAIS/blob/main/therapie1.jpg?raw=true)
+
+Ou celle-ci:
+
+![alt text](https://github.com/inRetis/ELIZA-FRANCAIS/blob/main/therapie2.jpg?raw=true)
